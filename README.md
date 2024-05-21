@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SPA Travel Landing Page
 
-## Getting Started
+This is a tutorial project that I made to better understand how to use the Nest Js framework, how folders are organized, what I can and cannot delete, etc. I took the liberty of improving some specific points that I felt were missing in the original version, such as some responsive sizes, for example.
+## Stack used
+Next JS, Resct Js, Typescript, Tailwind CSS
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Screenshots
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Travel-1](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/3cc9dcb6-168e-41c5-aed1-9192dd2d703e)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Travel-2](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/e812a836-70eb-492f-a8bf-32e92867f16c)
 
-## Learn More
+![Travel-3](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/2dcc65c6-d9aa-4a0f-badf-c49f47770fac)
 
-To learn more about Next.js, take a look at the following resources:
+![Travel-4](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/37b7bd1a-e647-4a70-8b00-20bac8d14233)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Travel-5](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/b5de737b-efe4-41bc-a053-27ae831002fe)
+## Authors
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
