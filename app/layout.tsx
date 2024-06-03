@@ -5,8 +5,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Travel',
-  description: 'Travel UI/UX App for Camping',
+  title: 'HiLink | Arthur Sant',
+  description: 'SPA UI/UX Landing page for a Travel App',
 }
 
 export default function RootLayout({

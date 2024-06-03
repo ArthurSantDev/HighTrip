@@ -8,12 +8,12 @@ type ButtonProps = {
     variant:string;
 }
 
-const Button = ({type, title,icon, variant}: ButtonProps) => {
+const Button = ({type, title, icon, variant}: ButtonProps) => {
   return (
     <button 
     className={`flexCenter gap-3 rounded-full border transition-all duration-150 hover:scale-[1.05] ${variant}`}
     type={type}>
-        {icon && <Image src={icon} alt={title} width={24} height={24}/>}
+        {icon && <Image src={icon} alt={title} width={22} height={22}/>}
         <label className='bold-16 whitespace-nowrap pointer-events-none'>
             {title}
         </label>
