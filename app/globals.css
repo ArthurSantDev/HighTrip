@@ -16,10 +16,10 @@ body {
 
 @layer utilities {
   .btn_white { 
-    @apply  border-white bg-white px-8 py-3 text-green-50
+    @apply  border-white bg-white px-8 py-5 text-green-50
   }
   .btn_white_text  { 
-    @apply  border-white bg-white px-8 py-3 text-gray-90
+    @apply  border-white bg-white px-8 py-5 text-gray-90
   }
   .btn_green  { 
     @apply  border-green-50 bg-green-50 px-8 py-5 text-white
@@ -36,7 +36,7 @@ body {
   }
 
   .padding-container {
-    @apply px-6 lg:px-20 3xl:px-0;
+    @apply px-5 lg:px-20 3xl:px-0;
   }
 
   .flexCenter {
@@ -96,8 +96,8 @@ body {
     @apply text-[64px] font-[700] leading-[120%];
   }
 
-  .bold-52 {
-    @apply text-[52px] font-[700] leading-[120%];
+  .bold-title {
+    @apply text-[50px] font-[700] leading-[120%];
   }
 
   .bold-40 {
@@ -137,17 +137,10 @@ body {
 
   /* Get App */
   .get-app {
-    @apply max-container relative flex w-full  flex-col justify-between gap-32 overflow-hidden bg-green-90 bg-pattern bg-cover bg-center bg-no-repeat px-6 py-12 text-white sm:flex-row sm:gap-12 sm:py-24 lg:px-20 xl:max-h-[598px] 2xl:rounded-5xl;
+    @apply max-container relative flex w-full  flex-col justify-between gap-8 overflow-hidden bg-green-90 bg-pattern bg-cover bg-center bg-no-repeat px-6 py-12 text-white sm:flex-row sm:gap-12 sm:py-24 lg:px-20 xl:max-h-[598px] 2xl:rounded-5xl;
   }
 }
 
-/* Hide scrollbar for Chrome, Safari and Opera */
-.hide-scrollbar::-webkit-scrollbar {
-  display: none;
-}
-
-/* Hide scrollbar for IE, Edge and Firefox */
-.hide-scrollbar {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+::-webkit-scrollbar {
+  width: 0px;               /* width of the entire scrollbar */
 }

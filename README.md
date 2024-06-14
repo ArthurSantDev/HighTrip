@@ -1,5 +1,5 @@
-# SPA landing page for a Travel App
-This is a tutorial project that I made to better understand how to use the Nest Js framework, how folders are organized, what I can and cannot delete, etc. I took the liberty of improving some specific points that I felt were missing in the original version, such as some responsive sizes, for example.
+# HightTrip
+This is a project I did to better understand how to use the Nest Js framework, how folders are organized, what I can and cannot delete, etc. I took the liberty of improving some specific points that I felt were missing in the original version, such as some responsive sizes, for example.
 
 
 ## Stack used
@@ -8,20 +8,20 @@ This is a tutorial project that I made to better understand how to use the Nest 
 
 
 ## Screenshots
-![Travel-1](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/3cc9dcb6-168e-41c5-aed1-9192dd2d703e)
+![Desktop1](https://github.com/ArthurSantDev/HighTrip/assets/159972613/2c2bd050-b7d9-44e4-a980-3c9abfe9ed5c)
 
-![Travel-2](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/e812a836-70eb-492f-a8bf-32e92867f16c)
+![Desktop2](https://github.com/ArthurSantDev/HighTrip/assets/159972613/43e906ac-85f1-44d6-98ad-6364c258cfff)
 
-![Travel-3](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/2dcc65c6-d9aa-4a0f-badf-c49f47770fac)
+![Desktop3](https://github.com/ArthurSantDev/HighTrip/assets/159972613/6fbd87b3-3284-415c-8934-3a81c27bb22e)
 
-![Travel-4](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/37b7bd1a-e647-4a70-8b00-20bac8d14233)
+![Desktop4](https://github.com/ArthurSantDev/HighTrip/assets/159972613/adecdded-d426-4540-9bad-6bf3ed00c6be)
 
-![Travel-5](https://github.com/ArthurSantDev/SPA-Travel/assets/159972613/b5de737b-efe4-41bc-a053-27ae831002fe)
+![Desktop5](https://github.com/ArthurSantDev/HighTrip/assets/159972613/e78f9447-2b78-44f2-93a5-d44acc1ed38c)
 
-![Travel-6](https://github.com/ArthurSantDev/TourApp-LandingPage/assets/159972613/88c9df1e-1281-40f6-a71d-d1cfe96b437e)
+![Desktop6](https://github.com/ArthurSantDev/HighTrip/assets/159972613/328d786b-3c24-4337-8580-a9db6a4f8391)
 
-![Mobile-1](https://github.com/ArthurSantDev/TourApp-SPA/assets/159972613/e8c80cf8-c20a-48a6-b059-639b2e2fcc16)
-![Mobile-2](https://github.com/ArthurSantDev/TourApp-SPA/assets/159972613/87c54021-9fbe-4457-903c-3f13d83a7fdd)
-![Mobile-3](https://github.com/ArthurSantDev/TourApp-SPA/assets/159972613/9d6b7fe2-c441-4bef-b391-b512a0a683b6)
-![Mobile-4](https://github.com/ArthurSantDev/TourApp-SPA/assets/159972613/3e565d2c-0d7f-43b9-8d05-f529f7799b8e)
-![Mobile-5](https://github.com/ArthurSantDev/TourApp-SPA/assets/159972613/2b84b635-1356-4a60-a2a6-a28f75a0b239)
+![m1](https://github.com/ArthurSantDev/HighTrip/assets/159972613/693315f1-d244-4d01-b616-dfed22ca6aad)
+![m2](https://github.com/ArthurSantDev/HighTrip/assets/159972613/0b2b7fe5-c7d8-48bb-92bb-29d7c99e8a82)
+![m3](https://github.com/ArthurSantDev/HighTrip/assets/159972613/6f13714b-a143-409e-b5d3-96ecf2bc4fc5)
+![m4](https://github.com/ArthurSantDev/HighTrip/assets/159972613/012edd0b-0f75-4040-89c4-bdf31fe67d92)
+![m5](https://github.com/ArthurSantDev/HighTrip/assets/159972613/9ebff3ac-a9cd-4e07-8fe5-288745b21ae2)

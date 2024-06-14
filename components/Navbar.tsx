@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="fixed top-0 left-0 w-full z-50 bg-white rounded-b-lg">
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       <Link href="/">
-        <Image src="/hilink-logo.svg" alt="logo" width={80} height={40} />
+        <Image src="/logo.svg" alt="logo" width={80} height={40} />
       </Link>
 
       <ul className="hidden h-full gap-12 lg:flex">
@@ -31,8 +31,8 @@ const Navbar = () => {
       <Image 
         src="menu.svg"
         alt="menu"
-        width={32}
-        height={32}
+        width={28}
+        height={28}
         className="inline-block cursor-pointer lg:hidden"
       />
     </nav>

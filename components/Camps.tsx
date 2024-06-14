@@ -59,9 +59,9 @@ const Camp = () => {
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Mountain View Camp"
+          title="Lake View Camp"
           subtitle="Somewhere in the Wilderness"
-          peopleJoined="50+ Joined"
+          peopleJoined="70+ Joined"
         />
       </div>
 

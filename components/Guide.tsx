@@ -4,7 +4,7 @@ import React from 'react'
 const Guide = () => {
   return (
     <section className="flexCenter flex-col">
-      <div className="padding-container max-container w-full pb-24">
+      <div className="padding-container max-container w-full pb-12">
         <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
           We are here for you
         </p>
@@ -13,7 +13,7 @@ const Guide = () => {
             Guide You to Easy Path
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
-            Only with the hilink application you will no longer get lost and get lost again, 
+            Only with the HighTrip application you will no longer get lost and get lost again, 
             because we already support offline maps when there is no internet connection in 
             the field. Invite your friends, relatives and friends to have fun in the wilderness 
             through the valley and reach the top of the mountain
