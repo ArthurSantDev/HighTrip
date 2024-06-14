@@ -20,8 +20,10 @@ This is a project I did to better understand how to use the Nest Js framework, h
 
 ![Desktop6](https://github.com/ArthurSantDev/HighTrip/assets/159972613/328d786b-3c24-4337-8580-a9db6a4f8391)
 
-![m1](https://github.com/ArthurSantDev/HighTrip/assets/159972613/693315f1-d244-4d01-b616-dfed22ca6aad)
-![m2](https://github.com/ArthurSantDev/HighTrip/assets/159972613/0b2b7fe5-c7d8-48bb-92bb-29d7c99e8a82)
-![m3](https://github.com/ArthurSantDev/HighTrip/assets/159972613/6f13714b-a143-409e-b5d3-96ecf2bc4fc5)
-![m4](https://github.com/ArthurSantDev/HighTrip/assets/159972613/012edd0b-0f75-4040-89c4-bdf31fe67d92)
-![m5](https://github.com/ArthurSantDev/HighTrip/assets/159972613/9ebff3ac-a9cd-4e07-8fe5-288745b21ae2)
+![I1](https://github.com/ArthurSantDev/HighTrip/assets/159972613/f4320e8c-8dd6-446a-aec7-27a811d37580)
+![I2](https://github.com/ArthurSantDev/HighTrip/assets/159972613/9b78ea98-e605-4453-adc5-81d4eb54c165)
+![I3](https://github.com/ArthurSantDev/HighTrip/assets/159972613/75e30425-749e-4bfe-922d-8ea5cf7dd9e4)
+
+![I4](https://github.com/ArthurSantDev/HighTrip/assets/159972613/bc1477b3-bcb8-4365-a2d6-749e14902a84)
+![I5](https://github.com/ArthurSantDev/HighTrip/assets/159972613/79c42a12-e63c-4443-b614-179612a3df66)
+![I6](https://github.com/ArthurSantDev/HighTrip/assets/159972613/c8737f3a-058f-46fc-9673-afdcbe32db75)
