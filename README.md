@@ -13,8 +13,55 @@ This is a project I did to better understand how to use the Nest Js framework, h
 - Mobile responsive UX/UI design
 - Constants file for creating easy-to-maintain sections and footers
 
+
 ## Learnings
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) This was my first contact with Frameworkl Next.js and I was able to see that it offers a robust development environment with automatic page reloading and TypeScript support, which speeds up the development and debugging process. Including automatic optimization features, such as optimized image loading, page pre-rendering and code splitting, which help to greatly improve application performance. It provides the ability to create internal APIs within the Next.js application, which is useful for manipulating data without the need to configure a separate backend. And finally, what I actually used most in this project, the creation of static pages generated at construction time (SSG) and dynamic pages that can be updated with each request (ISR), making the Framework quite versatile and complete in my opinion.
+
+
+## Installation
+```bash
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init -p
+```
+#### tailwind.config.js
+```bash
+module.exports = {
+  purge: [],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {},
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+#### postcss.config.js
+```bash
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
+```
+#### ./styles/globals.css
+```bash
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+#### pages/_app.js
+```bash
+import '../styles/globals.css'
+
+function MyApp({ Component, pageProps }) {
+  return <Component {...pageProps} />
+}
+
+export default MyApp
+```
 
 
 ## Screenshots
