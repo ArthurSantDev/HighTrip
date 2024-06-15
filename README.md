@@ -6,6 +6,16 @@ This is a project I did to better understand how to use the Nest Js framework, h
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 
+## Features
+- Front End structured in Next.JS
+- Reusable Typescript components made from props
+- Tailwind to create styles quickly and efficiently
+- Mobile responsive UX/UI design
+- Constants file for creating easy-to-maintain sections and footers
+
+## Learnings
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) This was my first contact with Frameworkl Next.js and I was able to see that it offers a robust development environment with automatic page reloading and TypeScript support, which speeds up the development and debugging process. Including automatic optimization features, such as optimized image loading, page pre-rendering and code splitting, which help to greatly improve application performance. It provides the ability to create internal APIs within the Next.js application, which is useful for manipulating data without the need to configure a separate backend. And finally, what I actually used most in this project, the creation of static pages generated at construction time (SSG) and dynamic pages that can be updated with each request (ISR), making the Framework quite versatile and complete in my opinion.
+
 
 ## Screenshots
 ![Desktop1](https://github.com/ArthurSantDev/HighTrip/assets/159972613/2c2bd050-b7d9-44e4-a980-3c9abfe9ed5c)
